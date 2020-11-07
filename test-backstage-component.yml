@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-backstage-component
+  description: Reading my comp from github
+  tags:
+    - java
+    - data
+spec:
+  type: service
+  lifecycle: pre-production
+  owner: oasis@example.com
