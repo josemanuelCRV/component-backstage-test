@@ -10,3 +10,5 @@ spec:
   type: service
   lifecycle: pre-production
   owner: oasis@example.com
+  implementsApis:
+    - example-api  
