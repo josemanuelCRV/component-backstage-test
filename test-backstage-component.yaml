@@ -6,7 +6,7 @@ metadata:
   annotations:
     jenkins.io/github-folder: folder-name/job-name
     github.com/project-slug: josemanuelCRV/component-backstage-test
-    backstage.io/techdocs-ref: josemanuelCRV/react-page-demo/blob/master/README.md
+    backstage.io/techdocs-ref: github:https://github.com/josemanuelCRV/react-page-demo.git
   tags:
     - go
 spec:
