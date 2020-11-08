@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: test-backstage-component
   description: Reading my comp from github
+  annotations:
+    jenkins.io/github-folder: folder-name/job-name  
   tags:
     - java
     - data
@@ -11,4 +13,4 @@ spec:
   lifecycle: pre-production
   owner: oasis@example.com
   implementsApis:
-    - example-api  
+    - example-api
