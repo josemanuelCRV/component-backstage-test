@@ -13,6 +13,6 @@ metadata:
 spec:
   type: service
   lifecycle: pre-production
-  owner: oasis@example.com
+  owner: josemanuelCRV
   implementsApis:
     - example-api
