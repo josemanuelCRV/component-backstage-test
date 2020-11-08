@@ -4,7 +4,9 @@ metadata:
   name: test-backstage-component
   description: Reading my comp from github
   annotations:
-    jenkins.io/github-folder: folder-name/job-name  
+    jenkins.io/github-folder: folder-name/job-name
+    github.com/project-slug: josemanuelCRV/component-backstage-test
+    backstage.io/techdocs-ref: https://github.com/josemanuelCRV/react-page-demo/blob/master/README.md
   tags:
     - java
     - data
