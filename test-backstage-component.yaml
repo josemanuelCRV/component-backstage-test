@@ -8,8 +8,7 @@ metadata:
     github.com/project-slug: josemanuelCRV/component-backstage-test
     backstage.io/techdocs-ref: https://github.com/josemanuelCRV/react-page-demo/blob/master/README.md
   tags:
-    - java
-    - data
+    - go
 spec:
   type: service
   lifecycle: pre-production
